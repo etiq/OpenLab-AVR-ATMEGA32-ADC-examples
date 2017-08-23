@@ -1,0 +1,2 @@
+# OpenLab-AVR-ATMEGA32-ADC-examples
+ADC example for AVR-ATMEGA32APU1533.
